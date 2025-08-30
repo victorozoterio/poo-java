@@ -23,7 +23,7 @@ executa: java -cp c:/temp BoaNoite
 String[] vetor = {"10","20"};
 
 ## 2º forma
-		
+
 String[] v = new String[2];
 v[0] = "30";
 v[1] = "40";
@@ -33,3 +33,19 @@ v[1] = "40";
 Função é algo genérico, já o método é um trecho que manipula o conteúdo de um objeto.
 
 Veja o arquivo `Math01.java`
+
+# Exceções
+
+Não é recomendado ter somente um catch genérico, o ideal é sempre ser catch específicos para cada tipo de exceção.
+
+## Tipos
+
+Exceção checked aparece em tempo de execução (Runtime)
+Exceção unchecked aparece em tempo de compilação (Compile-time)
+
+## Possiveis estruturas
+
+- try/catch
+- try/catch/finally
+- try/catch/catch/finally
+- try/finnaly
