@@ -49,3 +49,13 @@ Exceção unchecked aparece em tempo de compilação (Compile-time)
 - try/catch/finally
 - try/catch/catch/finally
 - try/finnaly
+
+# Parâmetros vs Argumentos
+
+Argumentos são os valores que eu mando para o método.
+Parâmetros são os valores que o método recebe.
+
+# Método vs Função - Ambos devem ter apenas 1 return
+
+Método manipula os dados de um objeto
+Função manipula dados genéricos
