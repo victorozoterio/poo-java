@@ -50,6 +50,12 @@ Exceção unchecked aparece em tempo de compilação (Compile-time)
 - try/catch/catch/finally
 - try/finnaly
 
+# Estudo dos métodos
+
+<a  href="#">
+    <img alt="Estudo dos métodos" src="./src/semana05/estudo-dos-metodos.png.excalidraw" width="100%" />    
+</a>
+
 # Parâmetros vs Argumentos
 
 Argumentos são os valores que eu mando para o método.
@@ -59,3 +65,7 @@ Parâmetros são os valores que o método recebe.
 
 Método manipula os dados de um objeto
 Função manipula dados genéricos
+
+# O que é uma variável final?
+
+É uma variável que não varia, é uma constante
