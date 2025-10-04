@@ -53,7 +53,7 @@ Exceção unchecked aparece em tempo de compilação (Compile-time)
 # Estudo dos métodos
 
 <a  href="#">
-    <img alt="Estudo dos métodos" src="./src/semana05/estudo-dos-metodos.png.excalidraw" width="100%" />    
+    <img alt="Estudo dos métodos" src="./src/semana05/estudo-dos-metodos.png" width="100%" />    
 </a>
 
 # Parâmetros vs Argumentos
@@ -68,4 +68,13 @@ Função manipula dados genéricos
 
 # O que é uma variável final?
 
-É uma variável que não varia, é uma constante
+É uma variável que não varia, é uma constante.
+
+# Sobrecarga vs Sobrescrita
+
+Sobrecarga é quando um método tem o mesmo nome e assinatura diferente, na mesma classe.
+Sobrescrita é quando um método tem o mesmo nome e a mesma assinatura, porém em uma classe filha.
+
+# Public, Private e Protected
+
+Protected é como se dentro do pacote ele fosse public, porém fora do pacote ele é como se fosse private. Mas se ele estiver dentro da hierarquia de classes, ele vira public denovo, mesmo que ele esteja em um pacote diferente.
