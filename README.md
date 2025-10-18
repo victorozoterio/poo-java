@@ -78,3 +78,9 @@ Sobrescrita é quando um método tem o mesmo nome e a mesma assinatura, porém e
 # Public, Private e Protected
 
 Protected é como se dentro do pacote ele fosse public, porém fora do pacote ele é como se fosse private. Mas se ele estiver dentro da hierarquia de classes, ele vira public denovo, mesmo que ele esteja em um pacote diferente.
+
+# Tipos de Associação
+
+<a  href="#">
+    <img alt="Tipos de Associação" src="./src/semana09/tipos-de-associacao.png" width="100%" />    
+</a>
