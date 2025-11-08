@@ -84,3 +84,11 @@ Protected é como se dentro do pacote ele fosse public, porém fora do pacote el
 <a  href="#">
     <img alt="Tipos de Associação" src="./src/semana09/tipos-de-associacao.png" width="100%" />    
 </a>
+
+### -----------------------------------------------------------------------------------------------
+
+# Prova 2 a partir da aula 12
+
+IMPORTANTE: Pode utilizar qualquer material que você possua, só não pode se conectar na internet
+
+Para conectar com o banco de dados, pegue o arquivo `postgresql-42.7.8.jar` e jogue para dentro do seu projeto, clique nele com o botão direito, depois clique em `add to build path` se estiver no Eclipse, ou, clique em `add library` se estiver no IntelliJ, SEM ISSO FEITO NÃO IRÁ FUNCIONAR.  
